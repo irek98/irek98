@@ -1,16 +1,35 @@
-## Hi there 👋
+# Ирек Фатхриев — автоматизация на Python
 
-<!--
-**irek98/irek98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Пишу программы, которые забирают данные из личных кабинетов и раскладывают их в Excel, CSV и 1С:
+выгрузка чеков из ОФД, парсинг сайтов, боты для акций, отчёты по расписанию.
+Работаю один, поэтому в проекте нет «передачи через менеджера»: пишу, проверяю на живом кабинете и отдаю готовый `.exe`.
 
-Here are some ideas to get you started:
+**Сайт с инструкциями и калькулятором цен: [chekhub.ru](https://chekhub.ru)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Что я делаю
+
+| Задача | Пример |
+|---|---|
+| Выгрузка чеков из ОФД в Excel / Google Таблицы / 1С | [инструкции и разборы ошибок](https://chekhub.ru/articles/) |
+| Проверка чека по QR: ФН, ФД, ФПД, сумма, позиции | [проверка чека по QR](https://chekhub.ru/proverka-cheka-po-qr.html) |
+| Готовый текст запроса в поддержку ОФД, если выгрузки нет | [письмо в ОФД](https://chekhub.ru/pismo-v-ofd.html) |
+| Робот для акций с чеками: вход по аккаунтам, загрузка чеков, журнал | репозиторий [giveaway-bot](https://github.com/irek98/giveaway-bot) |
+| Парсеры, боты, отчёты по расписанию | услуги и цены — [chekhub.ru/uslugi.html](https://chekhub.ru/uslugi.html) |
+
+## Полезное в репозиториях
+
+- [ofd-checks-excel](https://github.com/irek98/ofd-checks-excel) — как забрать чеки из кабинета ОФД,
+  что делать, если в файле нет позиций, и как проверить выгрузку на дубли (связка ФН + ФД + ФПД).
+- [chekhub-site](https://github.com/irek98/chekhub-site) — исходники сайта chekhub.ru: статьи,
+  калькулятор, разбор тегов ФФД.
+
+## Связаться
+
+- Telegram: [@CheckHab](https://t.me/CheckHab) — короткие разборы по выгрузке чеков
+- Kwork: [kwork.ru/user/f-irek98](https://kwork.ru/user/f-irek98)
+- Почта и форма заявки: [chekhub.ru/zayavka.html](https://chekhub.ru/zayavka.html)
+
+---
+
+Если нужна выгрузка чеков из ОФД, свод по сменам или сверка с банком — напишите, отвечу с оценкой
+по срокам и цене (ориентир: от 1 500 ₽ за кассу, 1–3 дня).
