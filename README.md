@@ -13,7 +13,8 @@
 | Выгрузка чеков из ОФД в Excel / Google Таблицы / 1С | [инструкции и разборы ошибок](https://chekhub.ru/articles/) |
 | Проверка чека по QR: ФН, ФД, ФПД, сумма, позиции | [проверка чека по QR](https://chekhub.ru/proverka-cheka-po-qr.html) |
 | Готовый текст запроса в поддержку ОФД, если выгрузки нет | [письмо в ОФД](https://chekhub.ru/pismo-v-ofd.html) |
-| Робот для акций с чеками: вход по аккаунтам, загрузка чеков, журнал | репозиторий [giveaway-bot](https://github.com/irek98/giveaway-bot) |
+| Робот для акций с чеками: вход по аккаунтам, загрузка чеков, журнал | по запросу (окно + `.exe`, запуск в один клик) |
+| Telegram-бот с мини-приложением на aiogram | [giveaway-bot](https://github.com/irek98/giveaway-bot) |
 | Парсеры, боты, отчёты по расписанию | услуги и цены — [chekhub.ru/uslugi.html](https://chekhub.ru/uslugi.html) |
 
 ## Полезное в репозиториях
